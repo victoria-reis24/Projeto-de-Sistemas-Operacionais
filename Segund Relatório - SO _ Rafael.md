@@ -10,7 +10,7 @@ Grupo 13
 
 					Introdução
 
-Para começar o relatório do tema proposto, começaremos com a diferença entre UEFI e BIOS, a BIOS busca um HD no formato antigo com o formato MBR. Caso esteja configurado no UEFI, a busca é realizada no formato GPT, o formato atual com principais vantagens como a inicialização rápida da BIOS. Já o UEFI, é considerado o sucessor da BIOS com a mesma função mas com sua tecnologia mais avançada, sendo desenvolvida em parceria com as empresas de tecnologia grandes como a Intel, AMD, Apple e IBM percebendo que a BIOS é limitada em acesso remoto, considerando-a como um mini sistema operacional com suporte para mouse e mais recursos do que a BIOS na qual eram feitas em apenas 8 bits e em alguns casos, ela pode ser salva no disco, no HD ou SSD.
+Para começar o relatório do tema proposto, começaremos com a diferença entre UEFI e BIOS, a BIOS busca um HD no formato antigo com o formato MBR. Caso esteja configurado no UEFI, a busca é realizada no formato GPT, o formato atual com principais vantagens como a inicialização rápida da BIOS. Já o UEFI, é considerado o sucessor da BIOS com a mesma função mas com sua tecnologia mais avançada.
 
 				Desenvolvimento
 
